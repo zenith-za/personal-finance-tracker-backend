@@ -16,7 +16,7 @@ The Personal Finance Tracker backend is a RESTful API built with .NET 8, ASP.NET
 * .NET SDK: 8.0
 * PostgreSQL: v15 (brew install postgresql@15)
 * Postico: For database management
-* macOS: Tested on macOS (MacBook Air M2)
+* macOS: Tested on macOS
 * Git: For cloning the repository
 
 ## Setup and Installation
